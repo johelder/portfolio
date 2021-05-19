@@ -16,7 +16,7 @@ export const Container = styled.section.attrs({
         width: 100%;
 
         position: absolute;
-        bottom: -1.3rem;
+        bottom: 0;
     }
 
     @media screen and (min-width: 534px) {
